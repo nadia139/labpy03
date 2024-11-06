@@ -25,6 +25,9 @@ Menampilkan "Selesai" ketika program berakhir
 
 
 
+
+
+
 2. Tujuan Program:
 Menghitung total keuntungan usaha selama 8 bulan dengan persentase laba yang berbeda-beda
 
@@ -45,6 +48,9 @@ Menampilkan laba setiap bulan
 Menampilkan total laba keseluruhan
 
 <img width="960" alt="latihan 2" src="https://github.com/user-attachments/assets/c9639625-0c44-4ba9-b818-3602cbf8e702">
+
+
+
 
 
 
